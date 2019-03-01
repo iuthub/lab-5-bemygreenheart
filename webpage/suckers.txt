@@ -1,0 +1,5 @@
+Jaha;234232;001;Visa;
+Jahaw;234232;003;Visa;
+Nazarov;2342334343;002;MasterCard;
+Ahadjon;1111111;004;Visa;
+Men;233333;005;Visa;
